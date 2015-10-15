@@ -11,6 +11,6 @@ public class Hello {
 	 * change
 	 */
 	public static void main(String [] args) {
-		System.out.println("Hello Motha Fucka!!");
+		System.out.println("What's up world!!");
 	}
 }
